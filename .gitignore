@@ -1,0 +1,61 @@
+# Project exclude paths
+/.gradle/
+/Car Sharing/task/build/
+/Car Sharing/task/out/
+/Car Sharing/task/out/production/classes/
+/Topics/Standard functional interfaces/Select suitable interfaces/out/
+/Topics/Standard functional interfaces/Select suitable interfaces/out/production/classes/
+/Topics/Standard functional interfaces/Ternary operator/out/
+/Topics/Standard functional interfaces/Ternary operator/out/production/classes/
+/Topics/Standard functional interfaces/Theory/out/
+/Topics/Standard functional interfaces/Theory/out/production/classes/
+/Topics/Stream filtering/Bad words detecting/out/
+/Topics/Stream filtering/Bad words detecting/out/production/classes/
+/Topics/Stream filtering/Check if a number is prime/out/
+/Topics/Stream filtering/Check if a number is prime/out/production/classes/
+/Topics/Stream filtering/Numbers filtering/out/
+/Topics/Stream filtering/Numbers filtering/out/production/classes/
+/Topics/Stream filtering/Omitting long strings/out/
+/Topics/Stream filtering/Omitting long strings/out/production/classes/
+/Topics/Stream filtering/Statements/out/
+/Topics/Stream filtering/Statements/out/production/classes/
+/Topics/Stream filtering/Theory/out/
+/Topics/Stream filtering/Theory/out/production/classes/
+/Topics/Stream pipelines/Counting words/out/
+/Topics/Stream pipelines/Counting words/out/production/classes/
+/Topics/Stream pipelines/Possible pipelines/out/
+/Topics/Stream pipelines/Possible pipelines/out/production/classes/
+/Topics/Stream pipelines/Programming paradigms/out/
+/Topics/Stream pipelines/Programming paradigms/out/production/classes/
+/Topics/Stream pipelines/The peek method/out/
+/Topics/Stream pipelines/The peek method/out/production/classes/
+/Topics/Stream pipelines/The sum of odd numbers/out/
+/Topics/Stream pipelines/The sum of odd numbers/out/production/classes/
+/Topics/Stream pipelines/The ten most frequent words/out/
+/Topics/Stream pipelines/The ten most frequent words/out/production/classes/
+/Topics/Stream pipelines/The total number of employees/out/
+/Topics/Stream pipelines/The total number of employees/out/production/classes/
+/Topics/Stream pipelines/The total sum of canceled transactions/out/
+/Topics/Stream pipelines/The total sum of canceled transactions/out/production/classes/
+/Topics/Stream pipelines/Theory/out/
+/Topics/Stream pipelines/Theory/out/production/classes/
+/Topics/Stream pipelines/Using streams many times/out/
+/Topics/Stream pipelines/Using streams many times/out/production/classes/
+/Topics/Stream pipelines/What is the result/out/
+/Topics/Stream pipelines/What is the result/out/production/classes/
+/Topics/Streams of primitives/A stream without zero/out/
+/Topics/Streams of primitives/A stream without zero/out/production/classes/
+/Topics/Streams of primitives/Producing streams/out/
+/Topics/Streams of primitives/Producing streams/out/production/classes/
+/Topics/Streams of primitives/The average salary/out/
+/Topics/Streams of primitives/The average salary/out/production/classes/
+/Topics/Streams of primitives/The default value of summary statistics/out/
+/Topics/Streams of primitives/The default value of summary statistics/out/production/classes/
+/Topics/Streams of primitives/Theory/out/
+/Topics/Streams of primitives/Theory/out/production/classes/
+/Topics/Taking elements/Secret codes/out/
+/Topics/Taking elements/Secret codes/out/production/classes/
+/Topics/Taking elements/Sorting and skipping numbers/out/
+/Topics/Taking elements/Sorting and skipping numbers/out/production/classes/
+/Topics/Taking elements/Theory/out/
+/Topics/Taking elements/Theory/out/production/classes/

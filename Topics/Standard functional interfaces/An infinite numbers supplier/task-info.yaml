@@ -1,0 +1,23 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.function.*;
+
+    class FunctionUtils {
+
+        public static Supplier<Integer> getInfiniteRange() {
+            // write your code here
+        }
+
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4333#comment
+status: Failed
+feedback:
+  message: "Failed test #1 of 4. Wrong answer\n\nThis is a sample test from the problem\
+    \ statement!\n\nTest input:\n5\nCorrect output:\n0 1 2 3 4\n0 0 1 1 2 2 3 3 4\
+    \ 4\n\nYour code output:\n0 0 0 0 0 \n0 0 0 0 0 0 0 0 0 0\n"
+  time: Tue, 08 Feb 2022 20:41:27 UTC
+record: -1

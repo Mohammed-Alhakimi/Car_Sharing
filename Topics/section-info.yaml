@@ -1,0 +1,18 @@
+content:
+- Regexes in programs
+- Standard functional interfaces
+- Function composition
+- Optional
+- Functional data processing with streams
+- Stream filtering
+- Map and flatMap
+- Reduction methods
+- Collectors
+- Streams of primitives
+- Taking elements
+- Infinite streams
+- Stream pipelines
+- Parallel streams
+- Grouping collectors
+- Command
+- Package
